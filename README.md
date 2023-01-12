@@ -33,6 +33,10 @@
   <a href = "mailto:naclisboa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-lisboa-605857234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
             </div>
+            ![Snake animation](https://github.com/nateba/nateba/blob/output/github-contribution-grid-snake.svg)
+            <div align='right'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nateba.nateba" alt="visitor badge"/>
+</div>
   
   
  
