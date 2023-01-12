@@ -4,6 +4,10 @@
 - 🔭 Não estou trabalhando atualmente
 - 🌱 Estou cursando Ciência da Computação na PUC Minas
 - 👯 Em busca de um estágio para adquirir conhecimentos.
+
+##
+
+
 <header> 
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           </header>
