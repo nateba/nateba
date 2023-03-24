@@ -7,17 +7,11 @@
 
 ##
 
-            <header>
+          
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nateba&show_icons=true&theme=radical)
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          </header>
-<div>
-  <a href="https://github.com/nateba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nateba&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateba&layout=compact&langs_count=16&theme=radical"/>
-</div>
-            ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nateba&show_icons=true&theme=dark)
 
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateba&layout=compact&langs_count=16&theme=radical"/>
  ## My Languages
 <div>
  <div style="display: inline_block"><br>
