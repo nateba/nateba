@@ -1,9 +1,9 @@
 ### Olá!! Eu sou o Nathan 👋
 
 
-- 🔭 Não estou trabalhando atualmente
-- 🌱 Estou cursando Ciência da Computação na PUC Minas
-- 👯 Em busca de um estágio para adquirir conhecimentos.
+- 🔭 Trabalhando como estagiário de desenvolvimento de software fullstack.
+- 🌱 Estou cursando Ciência da Computação na PUC Minas (3º periodo).
+- 👯 Sempre em busca de novos conhecimentos e me atualizar das tecnologias atuais.
 
 ##
 
@@ -24,7 +24,12 @@
   <img align="center" alt="Nateba-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Nateba-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Nateba-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-   <img align="center" alt="Nateba-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">         
+   <img align="center" alt="Nateba-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">   
+   <img align="center" alt="Nateba-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="Nateba-.net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+
+   
+
             
 
           
